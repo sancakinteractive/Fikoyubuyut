@@ -1,6 +1,6 @@
 # 🐱 FİKO'YU BÜYÜT — 3D Kedi Simülatörü
 
-**v13 · Duraklat Menüsü + MP Manuel Kayıt + Ayarlar**
+** v13 · Duraklat Menüsü + MP Manuel Kayıt + Ayarlar**
 **by Sancak Interactive**
 
 > Sokak kedisi Fiko'ya şehir evinde bakan bir tıklama / yaşam simülasyonu.
@@ -19,21 +19,21 @@
 | **Tür** | 3D · Kedi Simülasyonu · Yaşam / Tıklama · Coop |
 | **Platform** | 💻 PC (tarayıcı) & 📱 Mobil (tarayıcı) |
 | **Modlar** | 👤 Tek Oyunculu · 👥 Coop Online (2 kişi) |
-| **Teknoloji** | Three.js · Tek dosya HTML5 · PeerJS (online) · localStorage (kayıt) |
+| **Teknoloji** | Three.js · PeerJS (online) · localStorage (kayıt) |
 | **İletişim** | 📩 Sancakinteractive@gmail.com |
 
 ---
 
 ## ▶️ Nasıl Çalıştırılır?
 
-Hiçbir kurulum gerekmez — **tek dosya** yeter:
+Hiçbir kurulum gerekmez — tarayıcıan oyuna girin yeter:
 
-1. `fiko-3d-v13.html` dosyasını indir.
-2. Çift tıkla → tarayıcında (Chrome, Edge, Firefox, Safari) açılır.
+1. tarayıcınızdan Fiko'yu Büyüt diye aratın
+2. tıkla → oyun açılır
 3. Ana menüden avatar rengini seç, **Tek Oyunculu** veya **Coop Online** de.
-4. Kankaevine hoş geldin! 🏠
+4.  evine hoş geldin Kanka! 🏠
 
-* İnternet gerektirmez (Coop Online modu hariç).
+* İnternet gerektirir.
 * Kayıt otomatik tarayıcıya yazılır (`fiko_save_v1`), ayarlar da (`fiko_cfg_v1`).
 
 ---
